@@ -1,0 +1,74 @@
+.conteiner{
+    width: 1000px;
+    height: 630px;
+    margin: auto;
+    text-align: center;
+}
+.logo{
+    margin-top: 200px;
+}
+.grikutu{
+    background-color: rgb(202, 198, 198);
+    
+    width: auto;
+    height: 100px;
+}
+.box1{
+    
+    padding-bottom: 0px;
+}
+.box2{
+  width: 350px;
+  background-color: white;
+  height: 33px;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.box3{
+    text-align: center;
+}
+.buton1{
+    float: left;
+}
+.buton2{
+    
+    float: left;
+    
+}
+
+.son{
+    text-align: center;
+    width: 1000px;
+    height: 100px;
+}
+.acıkmavi{
+background-color: rgb(127, 245, 245);
+width: 346px;
+height: 100px;
+float: left;
+margin: 1px;
+margin-left: 0px;
+
+}
+.mavi{
+background-color:rgb(44, 158, 158);
+width: 200px;
+height: 100px;
+float: left;
+margin: 1px;
+
+
+}
+.koyumavi{
+background-color: rgb(48, 161, 199);
+width: 450px;
+height: 100px;
+float: left;
+margin: 1px;
+margin-right: 0px;
+}
+.copy{
+    text-align: center;
+    font-size: small;
+}
